@@ -9,7 +9,7 @@
 Для начала клонируйте репозиторий:
 
 ```
-git@github.com:JosepfVas/retail_network.git
+git@github.com:JosepfVas/network_shop.git
 ```
 
 Установка и настройка
@@ -19,7 +19,7 @@ git@github.com:JosepfVas/retail_network.git
    Перейдите в директорию проекта и создайте виртуальное окружение:
 
 ```
-cd retail_network
+cd network_shop
 ```
 
 ```
